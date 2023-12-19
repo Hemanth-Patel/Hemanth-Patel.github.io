@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Somnath Kumar</title>
+    <title>Hemanth Patel</title>
     <link>https://Hemanth-Patel.github.io/</link>
       <atom:link href="https://Hemanth-Patel.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Somnath Kumar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Somnath Sendhil Kumar `2023`</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Hemanth Patel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Somnath Sendhil Kumar `2024`</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Hemanth-Patel.github.io/images/icon_hucffb9d42d7c693bd257413760c4b1fda_31806_512x512_fill_lanczos_center_2.png</url>
-      <title>Somnath Kumar</title>
+      <title>Hemanth Patel</title>
       <link>https://Hemanth-Patel.github.io/</link>
     </image>
     
@@ -35,7 +35,7 @@
     <item>
       <title>ZeroxQA</title>
       <link>https://Hemanth-Patel.github.io/project/zeroxqa/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://Hemanth-Patel.github.io/project/zeroxqa/</guid>
       <description>&lt;h1 id=&#34;zeroxqa--few-shot-learning-for-qa-tasks&#34;&gt;zeroxQA : Few shot learning for QA tasks&lt;/h1&gt;
 &lt;p&gt;A simple QA task here is defined as a Comprehensive reading task. Where a paragraph is given containing information about a domain. Along with it A question is given which can be answered using the paragraph and the supervision of starting and ending indexes in the paragraph corresponding for that question. A state of the art approach for such a problem is employing a transformer while masking the question and using two classification heads on top of the transformers for predicting start and stop indicies.&lt;/p&gt;
@@ -446,7 +446,7 @@ The robot is now about to have minor upgrades for it be used in a more real worl
 &lt;button name=&#34;button&#34;&gt; &lt;a href=&#34;#payment-options&#34;&gt;Support Us&lt;/a&gt;&lt;/button&gt;
 &lt;/div&gt;
 &lt;h2 id=&#34;our-voyage-so-far-&#34;&gt;Our Voyage so far-&lt;/h2&gt;
-&lt;p&gt;We started by forming a team in 2020 to take part in Grid 2.0. It consisted of &lt;strong&gt;3 novice juniors and 3 experienced seniors&lt;/strong&gt;. The team worked hard and learned a lot of things through the event. The journey included sleepless nights, long brainstorming sessions and a lot of innovation and hard work.&lt;/p&gt;
+&lt;p&gt;We started by forming a team in 2020 to take part in Grid 2.0. It consisted of &lt;strong&gt;3 novice juniors and 3 experienced Juniors&lt;/strong&gt;. The team worked hard and learned a lot of things through the event. The journey included sleepless nights, long brainstorming sessions and a lot of innovation and hard work.&lt;/p&gt;
 &lt;p&gt;We designed a novel hardware and implemented software algorithms to predict the positions and orientations of the gripper to grab various objects. &lt;strong&gt;Here are some results&lt;/strong&gt; from our endeavor -&lt;/p&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
 &lt;img src=&#34;head1.gif&#34;/&gt;
