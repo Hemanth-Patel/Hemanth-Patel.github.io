@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Somnath Kumar</title>
-    <link>https://hex-plex.github.io/</link>
-      <atom:link href="https://hex-plex.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Hemanth-Patel.github.io/</link>
+      <atom:link href="https://Hemanth-Patel.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Somnath Kumar</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Somnath Sendhil Kumar `2023`</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hex-plex.github.io/images/icon_hucffb9d42d7c693bd257413760c4b1fda_31806_512x512_fill_lanczos_center_2.png</url>
+      <url>https://Hemanth-Patel.github.io/images/icon_hucffb9d42d7c693bd257413760c4b1fda_31806_512x512_fill_lanczos_center_2.png</url>
       <title>Somnath Kumar</title>
-      <link>https://hex-plex.github.io/</link>
+      <link>https://Hemanth-Patel.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://hex-plex.github.io/talk/example-talk/</link>
+      <link>https://Hemanth-Patel.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/talk/example-talk/</guid>
+      <guid>https://Hemanth-Patel.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>ZeroxQA</title>
-      <link>https://hex-plex.github.io/project/zeroxqa/</link>
+      <link>https://Hemanth-Patel.github.io/project/zeroxqa/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/project/zeroxqa/</guid>
+      <guid>https://Hemanth-Patel.github.io/project/zeroxqa/</guid>
       <description>&lt;h1 id=&#34;zeroxqa--few-shot-learning-for-qa-tasks&#34;&gt;zeroxQA : Few shot learning for QA tasks&lt;/h1&gt;
 &lt;p&gt;A simple QA task here is defined as a Comprehensive reading task. Where a paragraph is given containing information about a domain. Along with it A question is given which can be answered using the paragraph and the supervision of starting and ending indexes in the paragraph corresponding for that question. A state of the art approach for such a problem is employing a transformer while masking the question and using two classification heads on top of the transformers for predicting start and stop indicies.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;reader.png&#34; alt=&#34;Reader&#34;&gt;&lt;/p&gt;
@@ -84,24 +84,24 @@ $ python finetune.py
     
     <item>
       <title>Realizing Linear Controllers for Quadruped Robots on Planetary Terrains</title>
-      <link>https://hex-plex.github.io/publication/exploration/</link>
+      <link>https://Hemanth-Patel.github.io/publication/exploration/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/publication/exploration/</guid>
+      <guid>https://Hemanth-Patel.github.io/publication/exploration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Black Box Model Extraction</title>
-      <link>https://hex-plex.github.io/project/model-extraction/</link>
+      <link>https://Hemanth-Patel.github.io/project/model-extraction/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/project/model-extraction/</guid>
+      <guid>https://Hemanth-Patel.github.io/project/model-extraction/</guid>
       <description>&lt;p&gt;Please go through the slides linked above or watch through our presentation below.&lt;/p&gt;
 &lt;iframe src=&#34;https://drive.google.com/file/d/1l75HNPUfXPEQmIOUbBsiiD6kHIoHM8gi/preview?t=2823&amp;end=3080&#34; width=&#34;720&#34; height=&#34;405&#34; &gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;end-to-end-approach&#34;&gt;End to End Approach&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/COPS-IITBHU/Model-Extraction-Attacks-Video-Classification/master/media/end_to_end.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ pip install vidmodex ## Stable version
-$ pip install git+https://github.com/hex-plex/Model-Extraction-Attacks-Video-Classification ## Latest development
+$ pip install git+https://github.com/Hemanth-Patel/Model-Extraction-Attacks-Video-Classification ## Latest development
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
 &lt;p&gt;Simple snippet explaining the usage :&lt;/p&gt;
@@ -145,9 +145,9 @@ greybox_main(custom_config)
     
     <item>
       <title>Graph Neural Network for Communication in MARL</title>
-      <link>https://hex-plex.github.io/project/gnn-marl/</link>
+      <link>https://Hemanth-Patel.github.io/project/gnn-marl/</link>
       <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/project/gnn-marl/</guid>
+      <guid>https://Hemanth-Patel.github.io/project/gnn-marl/</guid>
       <description>&lt;p&gt;This is an implementation of Communication in MARL using Graph Neural Network. This is been trained and tested on &lt;a href=&#34;https://github.com/deepmind/pysc2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;StarCraft II&lt;/a&gt;, And this has shown improved training and performance metrics throughout all the maps. I have implemented this on top of &lt;a href=&#34;https://github.com/oxwhirl/pymarl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyMARL&lt;/a&gt; for easier comparative study with respect to other algorithms or implementations like &lt;a href=&#34;https://github.com/uoe-agents/epymarl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ePyMARL&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Currently we have the following algorithms for training.&lt;/p&gt;
 &lt;ul&gt;
@@ -163,13 +163,13 @@ greybox_main(custom_config)
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1710.10903&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GAT&lt;/strong&gt;: Graph Attention Network&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;graph-neural-network&#34;&gt;Graph Neural Network.&lt;/h3&gt;
-&lt;p&gt;More Information about the architecture and the execution can be found at &lt;a href=&#34;https://hex-plex.github.io/project/gnn-marl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MultiAgent GNN&lt;/a&gt;
+&lt;p&gt;More Information about the architecture and the execution can be found at &lt;a href=&#34;https://Hemanth-Patel.github.io/project/gnn-marl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MultiAgent GNN&lt;/a&gt;
 A brief outline would be as follows&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
 &lt;img src=&#34;gnn.png&#34; /&gt;
 &lt;i&gt;Pipeline for communication using Graph Neural Network&lt;/i&gt;
 &lt;/p&gt;
-&lt;p&gt;The implementation is written in PyTorch and uses a modified version of &lt;a href=&#34;https://github.com/oxwhirl/smac&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMAC&lt;/a&gt; which could be found in &lt;a href=&#34;https://hex-plex.github.io/smac-py/&#34;&gt;smac-py&lt;/a&gt; to include the adjacency matrix as the observation more detail on it can be found &lt;a href=&#34;#adjacency-matrix&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The implementation is written in PyTorch and uses a modified version of &lt;a href=&#34;https://github.com/oxwhirl/smac&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMAC&lt;/a&gt; which could be found in &lt;a href=&#34;https://Hemanth-Patel.github.io/smac-py/&#34;&gt;smac-py&lt;/a&gt; to include the adjacency matrix as the observation more detail on it can be found &lt;a href=&#34;#adjacency-matrix&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;For a glimpse of the algorithm in action checkout the &lt;a href=&#34;#output&#34;&gt;&lt;strong&gt;Output&lt;/strong&gt;&lt;/a&gt; section&lt;/p&gt;
 &lt;h2 id=&#34;adjacency-matrix&#34;&gt;Adjacency Matrix&lt;/h2&gt;
 &lt;p&gt;An adjacency matrix simply represents the vertices of the graph. For the current problem we have used a few heuristics for joining two nodes with a vertex. They are as below&lt;/p&gt;
@@ -179,7 +179,7 @@ A brief outline would be as follows&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;output&#34;&gt;Output&lt;/h2&gt;
 &lt;p&gt;This is a demo output from the policy whose stats are given above
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/GNN-MARL/master/media/output.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/GNN-MARL/master/media/output.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
 &lt;p&gt;Below are the training and test metric of the presented algorithm with &lt;strong&gt;QMIX&lt;/strong&gt; on map 2s3z. The study is limited to the number of experiments due to limitation in computation at the disposal. The presented algorithm does support parallel envs and boosting the process of training. This would be tested soon&lt;/p&gt;
 &lt;table&gt;
@@ -195,8 +195,8 @@ A brief outline would be as follows&lt;/p&gt;
 &lt;td&gt;Average Return&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/GNN-MARL/master/media/train_battle_win_percentage.png&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/GNN-MARL/master/media/train_return_mean.png&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/GNN-MARL/master/media/train_battle_win_percentage.png&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/GNN-MARL/master/media/train_return_mean.png&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -213,8 +213,8 @@ A brief outline would be as follows&lt;/p&gt;
 &lt;td&gt;Average Return&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/GNN-MARL/master/media/test_battle_win_percentage.png&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/GNN-MARL/master/media/test_return_mean.png&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/GNN-MARL/master/media/test_battle_win_percentage.png&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/GNN-MARL/master/media/test_return_mean.png&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -223,13 +223,13 @@ A brief outline would be as follows&lt;/p&gt;
     
     <item>
       <title>MultiAgent Full coverage</title>
-      <link>https://hex-plex.github.io/project/multi-agent-coverage/</link>
+      <link>https://Hemanth-Patel.github.io/project/multi-agent-coverage/</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/project/multi-agent-coverage/</guid>
-      <description>&lt;p&gt;The main objective of this project was to make and efficient multi-agent algorithm for cleaning an unknown terrain, for which we built &lt;a href=&#34;https://github.com/hex-plex/Vox-Bot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Vox-Bot&amp;rdquo;&lt;/a&gt; a ROS package for multi robot platform, A full description about VoxBot can be found here &lt;a href=&#34;#desciption&#34;&gt;Description&lt;/a&gt;. This is our solution submitted for AIITRA robotics challenge 2021, where we &lt;strong&gt;secured second position&lt;/strong&gt; among all other IIT s and prestigious colleges of India.&lt;/p&gt;
+      <guid>https://Hemanth-Patel.github.io/project/multi-agent-coverage/</guid>
+      <description>&lt;p&gt;The main objective of this project was to make and efficient multi-agent algorithm for cleaning an unknown terrain, for which we built &lt;a href=&#34;https://github.com/Hemanth-Patel/Vox-Bot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Vox-Bot&amp;rdquo;&lt;/a&gt; a ROS package for multi robot platform, A full description about VoxBot can be found here &lt;a href=&#34;#desciption&#34;&gt;Description&lt;/a&gt;. This is our solution submitted for AIITRA robotics challenge 2021, where we &lt;strong&gt;secured second position&lt;/strong&gt; among all other IIT s and prestigious colleges of India.&lt;/p&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/Vox-Bot/master/media/vox-bot-description.png&#34;/&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/Vox-Bot/master/media/vox-bot-description.png&#34;/&gt;
 &lt;i&gt;An CAD design of the the Vox-Bot&lt;/i&gt;
 &lt;/p&gt;
 &lt;p&gt;Vox Bot is an 4 wheeled robot with omni wheels for maximum agility and mobility. The main purpose of the robot is to vacumm cleaner autonomously in unknown terrain.
@@ -239,7 +239,7 @@ It houses a lidar for mapping and a SBC for all computational needs, with one hi
 &lt;h2 id=&#34;pipeline&#34;&gt;Pipeline&lt;/h2&gt;
 &lt;p&gt;We have modified the Vanilla navigation stack offered in move base ROS. We have used movebase flex for implementing the below architecture of below navigation stack.&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/Vox-Bot/master/media/pipeline.png&#34;/&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/Vox-Bot/master/media/pipeline.png&#34;/&gt;
 &lt;i&gt;Complete Pipeline of our solution&lt;/i&gt;
 &lt;/p&gt;
 &lt;p&gt;we have used &lt;a href=&#34;http://wiki.ros.org/multirobot_map_merge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;multirobot_map_merge&lt;/a&gt; with &lt;a href=&#34;http://wiki.ros.org/rrt_exploration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rrt exploration&lt;/a&gt; for mapping the environment.&lt;/p&gt;
@@ -249,13 +249,13 @@ It houses a lidar for mapping and a SBC for all computational needs, with one hi
 &lt;h3 id=&#34;mapping&#34;&gt;Mapping&lt;/h3&gt;
 &lt;p&gt;We have use RRT exploration instead of simple frontier exploration which made it very efficient&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/Vox-Bot/master/media/mapping_time.png&#34;/&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/Vox-Bot/master/media/mapping_time.png&#34;/&gt;
 &lt;i&gt;Comparision of number of bots and time to explore&lt;/i&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;optimal-coverage&#34;&gt;Optimal coverage&lt;/h3&gt;
 &lt;p&gt;we have used voronoi diagram and weighted centroid algorithm for distributing the task between individual robots, more detail about it can be found in the &lt;a href=&#34;https://drive.google.com/file/d/1JusOGQFmkjaVjfD4kQLPCjKfHKlH5u1N/preview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proposal&lt;/a&gt;.&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/Vox-Bot/master/media/voronoi.png&#34;/&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/Vox-Bot/master/media/voronoi.png&#34;/&gt;
 &lt;p&gt;&lt;i&gt;Generating voronoi diagram using Fortners algorithm&lt;/i&gt;&lt;/p&gt;
 &lt;/p&gt;
 &lt;p&gt;We then iterate using weighted center algorithm for calculating the desired voronoi cells and the positions of each agent.&lt;/p&gt;
@@ -265,19 +265,19 @@ It houses a lidar for mapping and a SBC for all computational needs, with one hi
 &lt;/p&gt;
 &lt;p&gt;Gives a result as such&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/Vox-Bot/master/media/optimal_coverage.gif&#34;/&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/Vox-Bot/master/media/optimal_coverage.gif&#34;/&gt;
 &lt;i&gt;Robots computing the path and optimal voronoi cell&lt;/i&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;boustrophoedn-path&#34;&gt;Boustrophoedn path&lt;/h3&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/Vox-Bot/master/media/bpath1.png&#34;/&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/Vox-Bot/master/media/bpath1.png&#34;/&gt;
 &lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
 &lt;i&gt;Path distribution for arena 1&lt;/i&gt;
 &lt;/p&gt;
 &lt;hr/&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/Vox-Bot/master/media/bpath2.png&#34;/&gt; 
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/Vox-Bot/master/media/bpath2.png&#34;/&gt; 
 &lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
 &lt;i&gt;Path distribution for arean 2&lt;/i&gt;
@@ -289,19 +289,19 @@ The fan has been placed low for efficient cleaning, with a ground clearance meas
 &lt;p&gt;Analysis of the vacuum mechanism was done using the SolidWorks Flow Simulation tool to get outputs about the kind of behavior shown by our vacuum during actual implementation.&lt;/p&gt;
 &lt;p&gt;The simulation required us to cover our rotating regions with circular bounded bodies to define the rotation boundary. We also defined the inlet and the outlet velocities as 0.6m/s and 0.15m/s below the bot and at the exhausts respectively. As the simulation was an internal one, the image only shows the flow inside our bot but the fact is quite evident through the trajectory of the arrows that in real-world scenarios, vox would certainly be an efficient vacuum design.&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/Vox-Bot/master/media/airflow-study.png&#34;/&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/Vox-Bot/master/media/airflow-study.png&#34;/&gt;
 &lt;i&gt;Hypothetical system of the Robot for full suction power&lt;/i&gt;
 &lt;/p&gt;
 &lt;hr/&gt;
 &lt;p&gt;The zoomed-in image of the flow clearly depicts that our exhausts are also working efficiently during closed space tests as the simulation required us to close the lower open space of our bot with a lid. The fans are generating the expected and the required flows quite efficiently.&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/Vox-Bot/master/media/airflow-closeup.png&#34;/&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/Vox-Bot/master/media/airflow-closeup.png&#34;/&gt;
 &lt;i&gt;Airflow inside the central chamber&lt;/i&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
 &lt;table&gt;
  &lt;td align=&#34;center&#34;&gt;
-     &lt;a href=&#34;https://github.com/hex-plex&#34;&gt;
+     &lt;a href=&#34;https://github.com/Hemanth-Patel&#34;&gt;
     &lt;img src=&#34;https://avatars0.githubusercontent.com/u/56990337?s=460&amp;v=4&#34; width=&#34;100px;&#34; alt=&#34;&#34;/&gt;&lt;br /&gt;&lt;sub&gt;&lt;b&gt;Somnath Sendhil Kumar &lt;/b&gt;&lt;/sub&gt;&lt;/a&gt;&lt;br /&gt;
     &lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;
@@ -326,9 +326,9 @@ The fan has been placed low for efficient cleaning, with a ground clearance meas
     
     <item>
       <title>NanoDrone RL Aided MPC</title>
-      <link>https://hex-plex.github.io/project/nanodrone-rlampc/</link>
+      <link>https://Hemanth-Patel.github.io/project/nanodrone-rlampc/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/project/nanodrone-rlampc/</guid>
+      <guid>https://Hemanth-Patel.github.io/project/nanodrone-rlampc/</guid>
       <description>&lt;h2 id=&#34;modding-the-hardware-platform&#34;&gt;Modding the hardware platform&lt;/h2&gt;
 &lt;p&gt;With a simple a simple RC drone with modified &lt;a href=&#34;https://github.com/betaflight/betaflight&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BetaFlight&lt;/a&gt; Firmware to allow mavlink communication and a external companion PC such as Banana pi zero m2 we plan to deploy swarm of these drones in to real world problems.&lt;/p&gt;
 &lt;p&gt;Our Major targets were,&lt;/p&gt;
@@ -387,9 +387,9 @@ As a low level PID controller is running for maintaining the altitude altitude, 
     
     <item>
       <title>Mini Swarm Bot</title>
-      <link>https://hex-plex.github.io/project/dot-bot/</link>
+      <link>https://Hemanth-Patel.github.io/project/dot-bot/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/project/dot-bot/</guid>
+      <guid>https://Hemanth-Patel.github.io/project/dot-bot/</guid>
       <description>&lt;p&gt;This is fully ROS integrated robot, which can be used in various purposes our main use case was to test out multiagent algorithms. We used it to take part in the national level competition, FlipKart Grid 3.0 Robotics challenge 2021.&lt;/p&gt;
 &lt;p&gt;I have worked on building the platform and the integrating ROS with the following robot. The localization was done using a Apriltag_ros and a array of cameras. Also worked on implementing autonomously navigating in the environment and computing the optimal path while considering other robots in the arena.&lt;/p&gt;
 &lt;p&gt;The complete package including the controller and the planner can be found at &lt;a href=&#34;https://github.com/Robotics-Club-IIT-BHU/Dot-Bot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dot-Bot&lt;/a&gt;.&lt;/p&gt;
@@ -424,9 +424,9 @@ The robot is now about to have minor upgrades for it be used in a more real worl
     
     <item>
       <title>Proposal for Flipkart Grid 3.0</title>
-      <link>https://hex-plex.github.io/post/fundraiser/</link>
+      <link>https://Hemanth-Patel.github.io/post/fundraiser/</link>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/post/fundraiser/</guid>
+      <guid>https://Hemanth-Patel.github.io/post/fundraiser/</guid>
       <description>&lt;p&gt;Flipkart Grid is a national robotics challenge that is organised by Flipkart annually. It is a distinguished event in which &lt;strong&gt;2000+ teams&lt;/strong&gt; representing different institutes participate from &lt;strong&gt;across the nation&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Grid 3.0 is being organised by Flipkart this year and the problem statement requires a swarm of hardware bots to be built. Here is the link to this year’s problem statement-&lt;div style=&#34;text-align: center;&#34;&gt;
 &lt;a href=&#34;https://dare2compete.com/api/competition/get-attachment/60e573fc7e126_Grid_3.0_Problem_Statement.pdf&#34;&gt;Flipkart Grid 3.0 - Robotics Challenge : Problem Statement&lt;/a&gt;&lt;/p&gt;
@@ -709,9 +709,9 @@ function outFunc2() {
     
     <item>
       <title>Optimal control and trajectory optimization for Quadruped</title>
-      <link>https://hex-plex.github.io/project/optimal-control_quadruped/</link>
+      <link>https://Hemanth-Patel.github.io/project/optimal-control_quadruped/</link>
       <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/project/optimal-control_quadruped/</guid>
+      <guid>https://Hemanth-Patel.github.io/project/optimal-control_quadruped/</guid>
       <description>&lt;p&gt;This post is a collection of Optimal Control algorithm that I either implemented or Integrated with the quadruped &amp;lsquo;Stochlite&amp;rsquo; at Stochlab, IISc. These are implemented in ROS so that we can deploy them directly on the hardware. My major contribution was to integrate these well established optimal control algorithms with the ROS framework of the Quadruped.&lt;/p&gt;
 &lt;p&gt;Majority of the Optimal control do not have significant difference in performance in Hardware as I was unable to test them in many scenarios through the simulators.&lt;/p&gt;
 &lt;h2 id=&#34;model-predictive-control&#34;&gt;Model Predictive Control&lt;/h2&gt;
@@ -751,24 +751,24 @@ function outFunc2() {
     
     <item>
       <title>BGaitR-Net: Occluded Gait Sequence reconstruction with temporally constrained model for gait recognition</title>
-      <link>https://hex-plex.github.io/publication/bgaitrnet/</link>
+      <link>https://Hemanth-Patel.github.io/publication/bgaitrnet/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/publication/bgaitrnet/</guid>
+      <guid>https://Hemanth-Patel.github.io/publication/bgaitrnet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Reinforcement Learning for Swarm of Modular Bot</title>
-      <link>https://hex-plex.github.io/project/modularbot_planner/</link>
+      <link>https://Hemanth-Patel.github.io/project/modularbot_planner/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/project/modularbot_planner/</guid>
+      <guid>https://Hemanth-Patel.github.io/project/modularbot_planner/</guid>
       <description>&lt;p&gt;This is my research project at &lt;a href=&#34;https://robotics-club-iit-bhu.github.io/RoboReG/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RoBoReg&lt;/a&gt;, on which I have been working for over a year till date since November 2020.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Abstraction of policy for Multi Agent to generalize the Swarm Behaviour. Allowing easy scaling up and robustness in task. Learning heirarchially optimal policy facilitates meta learning for multi agent setup, resulting in easier learning another task for the swarm. This saves a lot of train time as the policy takes major ammount of time to learn the complex interaction of these individual agents with each other and the environment. As the distribution of the model for these interaction doesnt tend to change drastically between tasks.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The testing has been done on a custom robot platform named iOTA. Which is a simple 4 Wheel drive on both top and bottom plates and hypotetically capable of docking(All tests are simulations with constraints added by simulator, this is done to reduce the complexity of physics).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Robotics-Club-IIT-BHU/gym-iOTA/master/media/bRoll.gif&#34; width=&#34;47%&#34; align=&#34;left&#34;/&gt;&lt;img src=&#34;ModularDock.png&#34; width=&#34;52%&#34; align=&#34;right&#34;/&gt;&lt;/p&gt;
-&lt;p&gt;The whole setup is simulated in PyBullet, and we have made a simple env for our experimental testbed &lt;a href=&#34;https://github.com/Robotics-Club-IIT-BHU/gym-iOTA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;gym-iOTA&lt;/code&gt;&lt;/a&gt;. There has been on a simpler 2D version of the Env for easier training and debuggin for representation learning of the environment &lt;a href=&#34;https://github.com/hex-plex/gym-iOTA_2D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;gym-iOTA_2D&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The whole setup is simulated in PyBullet, and we have made a simple env for our experimental testbed &lt;a href=&#34;https://github.com/Robotics-Club-IIT-BHU/gym-iOTA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;gym-iOTA&lt;/code&gt;&lt;/a&gt;. There has been on a simpler 2D version of the Env for easier training and debuggin for representation learning of the environment &lt;a href=&#34;https://github.com/Hemanth-Patel/gym-iOTA_2D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;gym-iOTA_2D&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;pipeline&#34;&gt;Pipeline&lt;/h2&gt;
 &lt;img src=&#34;ModularBot.png&#34;/&gt;
 &lt;p&gt;Here we have used multiple classical algorithms with learnt methods.
@@ -817,7 +817,7 @@ $$ \delta_2 = V(s_{t-1}) + \gamma*R_t - V(s_{t})$$&lt;/p&gt;
 &lt;table&gt;
   &lt;tr&gt;
   &lt;td align=&#34;center&#34;&gt;
-     &lt;a href=&#34;https://github.com/hex-plex&#34;&gt;
+     &lt;a href=&#34;https://github.com/Hemanth-Patel&#34;&gt;
     &lt;img src=&#34;https://avatars0.githubusercontent.com/u/56990337?s=460&amp;v=4&#34; width=&#34;100px;&#34; alt=&#34;&#34;/&gt;&lt;br /&gt;&lt;sub&gt;&lt;b&gt;Somnath Sendhil Kumar &lt;/b&gt;&lt;/sub&gt;&lt;/a&gt;&lt;br /&gt;
     &lt;/td&gt;
     &lt;td align=&#34;center&#34;&gt;
@@ -845,9 +845,9 @@ $$ \delta_2 = V(s_{t-1}) + \gamma*R_t - V(s_{t})$$&lt;/p&gt;
     
     <item>
       <title>Gait-Occlusion-Reconstrution</title>
-      <link>https://hex-plex.github.io/project/gait-occlusion-gan/</link>
+      <link>https://Hemanth-Patel.github.io/project/gait-occlusion-gan/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/project/gait-occlusion-gan/</guid>
+      <guid>https://Hemanth-Patel.github.io/project/gait-occlusion-gan/</guid>
       <description>&lt;h1 id=&#34;gait-occlusion-gan&#34;&gt;Gait-Occlusion-GAN&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;UnPublished: made public temporally&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Original code for the paper &lt;strong&gt;&amp;ldquo;BGaitR-Net: Occluded Gait Sequence reconstruction with temporally constrained model for gait recognition&amp;rdquo;&lt;/strong&gt; under Prof. Pratik Chattopadhyay.&lt;/p&gt;
@@ -858,11 +858,11 @@ We have used a 3 Datasets : for training 2 namely, CASIA-B, OU-ISIR large popula
 &lt;h2 id=&#34;proposed-approach&#34;&gt;Proposed approach&lt;/h2&gt;
 &lt;p&gt;We have used a Model based approach for feature extraction using &lt;strong&gt;Temporally constrained Kmeans Clustering&lt;/strong&gt; and &lt;strong&gt;Short Path in a Weighted Graph&lt;/strong&gt; for assigning Keypose for the Sequence even in case of Occlusion. This achieved substantially better results&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/Gait-Occlusion-GAN/master/results/pa.png&#34;/&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/Gait-Occlusion-GAN/master/results/pa.png&#34;/&gt;
 Propoesed Approach
 &lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/Gait-Occlusion-GAN/master/results/en.png&#34;/&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/Gait-Occlusion-GAN/master/results/en.png&#34;/&gt;
   Model Architecture
 &lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
@@ -871,7 +871,7 @@ Propoesed Approach
 &lt;/p&gt;
 &lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;img heigth=&#34;300&#34; src=&#34;https://raw.githubusercontent.com/hex-plex/Gait-Occlusion-GAN/master/results/7333occlu.jpg&#34;/&gt;
+&lt;img heigth=&#34;300&#34; src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/Gait-Occlusion-GAN/master/results/7333occlu.jpg&#34;/&gt;
 Visual inspection of Reconstruction for a sequence with over 73 occlusion.&lt;br/&gt;
 (a) Input Sequence&lt;br/&gt;
 (b) Reconstructed Sequence&lt;br/&gt;
@@ -879,7 +879,7 @@ Visual inspection of Reconstruction for a sequence with over 73 occlusion.&lt;br
 &lt;p&gt;Successfully able to Reconstruct 22 Frames from just 8 Frames with a Dice score 0.98&lt;/p&gt;
 &lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/Gait-Occlusion-GAN/master/results/cmc_plot.png&#34;/&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/Gait-Occlusion-GAN/master/results/cmc_plot.png&#34;/&gt;
 &lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
   CMC Accuracy of Gait Recognition for TUM-IITKGP Dataset
@@ -889,9 +889,9 @@ Visual inspection of Reconstruction for a sequence with over 73 occlusion.&lt;br
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://hex-plex.github.io/post/getting-started/</link>
+      <link>https://Hemanth-Patel.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/post/getting-started/</guid>
+      <guid>https://Hemanth-Patel.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -983,25 +983,25 @@ Visual inspection of Reconstruction for a sequence with over 73 occlusion.&lt;br
     
     <item>
       <title>PauciBot</title>
-      <link>https://hex-plex.github.io/project/paucibot/</link>
+      <link>https://Hemanth-Patel.github.io/project/paucibot/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/project/paucibot/</guid>
+      <guid>https://Hemanth-Patel.github.io/project/paucibot/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;This Repository contains the hardware designs of the Two Wheeled ROS enabled robot capable of self - balancing and also able to run SLAM and Localize itself with just Odometry, Encoders on the wheel and the Camera used with Depth Maps&lt;a href=&#34;#1&#34;&gt;[1]&lt;/a&gt; to get a partially accurate Depth information of the surronding. This is partially inspired from the Turtlebot&lt;a href=&#34;#2&#34;&gt;[2]&lt;/a&gt; but it must be kept in mind the algorithm has be able to model the two wheeled bot to even account for its self balancing action which was solved using accurate System Modelling&lt;a href=&#34;#3&#34;&gt;[3]&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/PauciBot-Hardware/master/images/Paucibot.jpg&#34; alt=&#34;Bot in all its glory&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/PauciBot-Hardware/master/images/Paucibot.jpg&#34; alt=&#34;Bot in all its glory&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;design&#34;&gt;Design&lt;/h2&gt;
 &lt;p&gt;The above is the bot in all its glory, I had built The Hardware before running simulations and testing out its stability as its quite an symmetrical and simple design. This surely resembles turtlebot but has a few changes. Basically the idea was to have a worthy replacement for a turtlebot to test out all the mapping and planning algorithms on it.&lt;/p&gt;
 &lt;br/&gt;
 &lt;p&gt;After the construction it was quite easy to make a 3D design for the simulators. My Weapon of choice Phobos&lt;a href=&#34;#4&#34;&gt;[4]&lt;/a&gt; and &lt;a href=&#34;https://www.blender.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blender&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Below is a simple design of the bot in blender.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/PauciBot-Hardware/master/images/Blender_Modelling.png&#34; alt=&#34;Blender Design&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/PauciBot-Hardware/master/images/Blender_Modelling.png&#34; alt=&#34;Blender Design&#34;&gt;&lt;/p&gt;
 &lt;p&gt;With some Phobos magics 🎉🎉&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/PauciBot-Hardware/master/images/URDF_generation.png&#34; alt=&#34;Phobos&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/PauciBot-Hardware/master/images/URDF_generation.png&#34; alt=&#34;Phobos&#34;&gt;&lt;/p&gt;
 &lt;p&gt;We can set the parameters required for generating URDF of the bot.&lt;/p&gt;
 &lt;p&gt;Exporting it just makes the work run naturally with Gazebo, PyBullet and any other Simulator of choice. The below is a simple &lt;strong&gt;PID control on the Pitch&lt;/strong&gt; of the Bot.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/PauciBot-Hardware/master/images/PyBullet-PID.png&#34; alt=&#34;PyBullet PID&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/PauciBot-Hardware/master/images/PyBullet-PID.png&#34; alt=&#34;PyBullet PID&#34;&gt;&lt;/p&gt;
 &lt;p&gt;You can get the same output running the following in the terminal.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git clone https://github.com/hex-plex/PauciBot-Hardware.git
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git clone https://github.com/Hemanth-Patel/PauciBot-Hardware.git
 cd PauciBot-Hardware
 python scripts/trial.py
 &lt;/code&gt;&lt;/pre&gt;
@@ -1022,7 +1022,7 @@ python scripts/trial.py
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;This is the ROS hardware Node on the Robot which communicates to a master on the localhost using UDP protocol. This is also used to give the neccesary computational power for onboard Computer Vision algorithms.
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/PauciBot-Hardware/master/images/Jetson.jpg&#34; alt=&#34;Jetson&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/PauciBot-Hardware/master/images/Jetson.jpg&#34; alt=&#34;Jetson&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h4 id=&#34;mpu9250&#34;&gt;MPU9250&lt;/h4&gt;
@@ -1047,7 +1047,7 @@ python scripts/trial.py
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;This is a high quality webcam that can be easily used for capturing images at incredibly high resolution and quality.
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/PauciBot-Hardware/master/images/Logi_C290.jpg&#34; alt=&#34;Camera&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/PauciBot-Hardware/master/images/Logi_C290.jpg&#34; alt=&#34;Camera&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;p&gt;&lt;a id=&#34;1&#34;&gt;[1]&lt;/a&gt; Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints. Reza Mahjourian, Martin Wicke, Anelia Angelova &lt;a href=&#34;https://sites.google.com/view/vid2depth&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a id=&#34;2&#34;&gt;[2]&lt;/a&gt; Turtlebot is a ROS standard platform robot. &lt;a href=&#34;https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt;&lt;/p&gt;
@@ -1059,12 +1059,12 @@ A Tutorial on Modelling and Control of Two- Wheeled Self-Balancing Robot with St
     
     <item>
       <title>KiloBot MultiAgent Reinforcement Learning</title>
-      <link>https://hex-plex.github.io/project/kilobot-multiagentrl/</link>
+      <link>https://Hemanth-Patel.github.io/project/kilobot-multiagentrl/</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/project/kilobot-multiagentrl/</guid>
+      <guid>https://Hemanth-Patel.github.io/project/kilobot-multiagentrl/</guid>
       <description>&lt;p&gt;This is an experimentation to learn about Swarm Robotics with help of MultiAgent Reinforcement learning. We have used KiloBot as a platform as these are very simple in the actions space and have very high degree of symmetry. The Main inspiration of this project is this paper&lt;a href=&#34;#1&#34;&gt;[1]&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;setting-up&#34;&gt;Setting Up&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git clone https://github.com/hex-plex/KiloBot-MultiAgent-RL
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git clone https://github.com/Hemanth-Patel/KiloBot-MultiAgent-RL
 cd KiloBot-MultiAgent-RL
 pip install --upgrade absl-python \
                       tensorflow \
@@ -1087,8 +1087,8 @@ pip install -e gym-kiloBot
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/KiloBot-MultiAgent-RL/blob/master/images/env_test_graph_compress.gif?raw=true&#34; alt=&#34;Output-1&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/KiloBot-MultiAgent-RL/blob/master/images/env_test_localize_compress.gif?raw=true&#34; alt=&#34;Output-2&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/KiloBot-MultiAgent-RL/blob/master/images/env_test_graph_compress.gif?raw=true&#34; alt=&#34;Output-1&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/KiloBot-MultiAgent-RL/blob/master/images/env_test_localize_compress.gif?raw=true&#34; alt=&#34;Output-2&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1135,21 +1135,21 @@ number of modules. To infer many insights of the algorithm in hand.&lt;/p&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/KiloBot-MultiAgent-RL/blob/master/images/10trainon10.gif?raw=true&#34; alt=&#34;Success1&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/KiloBot-MultiAgent-RL/blob/master/images/10trainon20.gif?raw=true&#34; alt=&#34;Success2&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/KiloBot-MultiAgent-RL/blob/master/images/10trainon50.gif?raw=true&#34; alt=&#34;Success3&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/KiloBot-MultiAgent-RL/blob/master/images/10trainon10.gif?raw=true&#34; alt=&#34;Success1&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/KiloBot-MultiAgent-RL/blob/master/images/10trainon20.gif?raw=true&#34; alt=&#34;Success2&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/KiloBot-MultiAgent-RL/blob/master/images/10trainon50.gif?raw=true&#34; alt=&#34;Success3&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;20&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/KiloBot-MultiAgent-RL/blob/master/images/20trainon20.gif?raw=true&#34; alt=&#34;Random1&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/KiloBot-MultiAgent-RL/blob/master/images/20trainon20.gif?raw=true&#34; alt=&#34;Random1&#34;&gt;&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;50&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/KiloBot-MultiAgent-RL/blob/master/images/50trainon50.gif?raw=true&#34; alt=&#34;Random2&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/KiloBot-MultiAgent-RL/blob/master/images/50trainon50.gif?raw=true&#34; alt=&#34;Random2&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1174,16 +1174,16 @@ The policies trained on 20 and 50 module system is completely random in sense it
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/KiloBot-MultiAgent-RL/blob/master/images/actor10.jpg?raw=true&#34; alt=&#34;Actor Loss&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/KiloBot-MultiAgent-RL/blob/master/images/critic10.jpg?raw=true&#34; alt=&#34;Critic Loss&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/KiloBot-MultiAgent-RL/blob/master/images/reward10.jpg?raw=true&#34; alt=&#34;Reward&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/KiloBot-MultiAgent-RL/blob/master/images/actor10.jpg?raw=true&#34; alt=&#34;Actor Loss&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/KiloBot-MultiAgent-RL/blob/master/images/critic10.jpg?raw=true&#34; alt=&#34;Critic Loss&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/KiloBot-MultiAgent-RL/blob/master/images/reward10.jpg?raw=true&#34; alt=&#34;Reward&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;for-5-modules&#34;&gt;For 5 modules&lt;/h4&gt;
 &lt;p&gt;The system can&amp;rsquo;t comphensate for the negetive reward got by using fuel as the reward got for graphing is much smaller in order than it that it chooses to be stagnent.
-&lt;img src=&#34;https://github.com/hex-plex/KiloBot-MultiAgent-RL/blob/master/images/5trainon5.gif?raw=true&#34; alt=&#34;Failed&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://github.com/Hemanth-Patel/KiloBot-MultiAgent-RL/blob/master/images/5trainon5.gif?raw=true&#34; alt=&#34;Failed&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;localization-problem&#34;&gt;Localization Problem&lt;/h3&gt;
 &lt;p&gt;Here the task was much easier but the training didnt yield any satisfactory result as.&lt;/p&gt;
@@ -1202,8 +1202,8 @@ Number of modules.&lt;/p&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/KiloBot-MultiAgent-RL/blob/master/images/15loc15.gif?raw=True&#34; alt=&#34;loc10&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/KiloBot-MultiAgent-RL/blob/master/images/25loc25.gif?raw=True&#34; alt=&#34;loc25&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/KiloBot-MultiAgent-RL/blob/master/images/15loc15.gif?raw=True&#34; alt=&#34;loc10&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/KiloBot-MultiAgent-RL/blob/master/images/25loc25.gif?raw=True&#34; alt=&#34;loc25&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1219,16 +1219,16 @@ Number of modules.&lt;/p&gt;
     
     <item>
       <title>Hand Imitation</title>
-      <link>https://hex-plex.github.io/project/hand-imitation/</link>
+      <link>https://Hemanth-Patel.github.io/project/hand-imitation/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/project/hand-imitation/</guid>
+      <guid>https://Hemanth-Patel.github.io/project/hand-imitation/</guid>
       <description>&lt;p&gt;RL-based learning for a robotic arm to imitate a given hand in a image feed
-with &lt;a href=&#34;https://github.com/hex-plex/gym-handOfJustice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;handOfJustice&lt;/a&gt; as our environment&lt;/p&gt;
+with &lt;a href=&#34;https://github.com/Hemanth-Patel/gym-handOfJustice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;handOfJustice&lt;/a&gt; as our environment&lt;/p&gt;
 &lt;h2 id=&#34;to-setup&#34;&gt;To Setup&lt;/h2&gt;
 &lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;pip install gym-handOfJustice
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;else&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git clone https://github.com/hex-plex/gym-handOfJustice
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;git clone https://github.com/Hemanth-Patel/gym-handOfJustice
 cd gym-handOfJustice
 pip install -e .
 &lt;/code&gt;&lt;/pre&gt;
@@ -1260,10 +1260,10 @@ pacman -Sy p7zip-full
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/Hand-Imitation/blob/master/log_images/actor_loss.jpg?raw=True&#34; alt=&#34;Actor_loss&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/Hand-Imitation/blob/master/log_images/critic_loss.jpg?raw=True&#34; alt=&#34;Critic_loss&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/Hand-Imitation/blob/master/log_images/reward.jpg?raw=True&#34; alt=&#34;Reward&#34;&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://github.com/hex-plex/Hand-Imitation/blob/master/log_images/eps_total_reward.jpg?raw=True&#34; alt=&#34;Cum_reward&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/Hand-Imitation/blob/master/log_images/actor_loss.jpg?raw=True&#34; alt=&#34;Actor_loss&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/Hand-Imitation/blob/master/log_images/critic_loss.jpg?raw=True&#34; alt=&#34;Critic_loss&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/Hand-Imitation/blob/master/log_images/reward.jpg?raw=True&#34; alt=&#34;Reward&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/Hand-Imitation/blob/master/log_images/eps_total_reward.jpg?raw=True&#34; alt=&#34;Cum_reward&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1272,15 +1272,15 @@ pacman -Sy p7zip-full
 &lt;p&gt;These are the best result after training over a limited amount of time&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;
 we have used clips from different versions of trained model and environment so there is a edit on these clips that in the gym-handOfJustice==0.0.6 a flip in the environment was added to make feel of the robotic hand more mirror like which can be spotted in the gif files&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/hex-plex/Hand-Imitation/blob/master/normal%26four_diff.gif?raw=true&#34; alt=&#34;Output-1&#34;&gt;
-&lt;img src=&#34;https://github.com/hex-plex/Hand-Imitation/blob/master/3Pose.gif?raw=true&#34; alt=&#34;Output-2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/Hand-Imitation/blob/master/normal%26four_diff.gif?raw=true&#34; alt=&#34;Output-1&#34;&gt;
+&lt;img src=&#34;https://github.com/Hemanth-Patel/Hand-Imitation/blob/master/3Pose.gif?raw=true&#34; alt=&#34;Output-2&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-end&#34;&gt;The End&lt;/h2&gt;
 &lt;p&gt;Thats all from our side&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://github.com/hex-plex/Hand-Imitation/blob/master/Thank_You.gif?raw=true&#34; height=&#34;50%&#34; width=&#34;50%&#34;&gt;&lt;/img&gt; &lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://github.com/Hemanth-Patel/Hand-Imitation/blob/master/Thank_You.gif?raw=true&#34; height=&#34;50%&#34; width=&#34;50%&#34;&gt;&lt;/img&gt; &lt;/p&gt;
 &lt;h2 id=&#34;the-team&#34;&gt;The Team&lt;/h2&gt;
 &lt;table&gt;
  &lt;td align=&#34;center&#34;&gt;
-     &lt;a href=&#34;https://github.com/hex-plex&#34;&gt;
+     &lt;a href=&#34;https://github.com/Hemanth-Patel&#34;&gt;
     &lt;img src=&#34;https://avatars0.githubusercontent.com/u/56990337?s=460&amp;v=4&#34; width=&#34;100px;&#34; alt=&#34;&#34;/&gt;&lt;br /&gt;&lt;sub&gt;&lt;b&gt;Somnath Sendhil Kumar &lt;/b&gt;&lt;/sub&gt;&lt;/a&gt;&lt;br /&gt;
     &lt;/td&gt;
     &lt;td align=&#34;center&#34;&gt;
@@ -1301,15 +1301,15 @@ we have used clips from different versions of trained model and environment so t
     
     <item>
       <title>Pong Reinforcement Learning</title>
-      <link>https://hex-plex.github.io/project/pong-reinforcementlearning/</link>
+      <link>https://Hemanth-Patel.github.io/project/pong-reinforcementlearning/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/project/pong-reinforcementlearning/</guid>
+      <guid>https://Hemanth-Patel.github.io/project/pong-reinforcementlearning/</guid>
       <description>&lt;p&gt;I have tried baking a rudimentary RL environment and a agent recipe to learn more about the eco-system.&lt;br/&gt;
-I have made &lt;a href=&#34;https://github.com/hex-plex/Pong-ReinforcementLearning/blob/master/pong.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pong.py&lt;/a&gt; a environment which one can host either locally (localhost) or on  0.0.0.0 (LAN).Allowing to communicate to &lt;a href=&#34;https://github.com/hex-plex/Pong-ReinforcementLearning/blob/master/mainmodel.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mainmodel.py&lt;/a&gt; which has to be connected to the same host and the same port. &lt;br/&gt;
+I have made &lt;a href=&#34;https://github.com/Hemanth-Patel/Pong-ReinforcementLearning/blob/master/pong.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pong.py&lt;/a&gt; a environment which one can host either locally (localhost) or on  0.0.0.0 (LAN).Allowing to communicate to &lt;a href=&#34;https://github.com/Hemanth-Patel/Pong-ReinforcementLearning/blob/master/mainmodel.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mainmodel.py&lt;/a&gt; which has to be connected to the same host and the same port. &lt;br/&gt;
 I have used a simple socket connection to transfer data rather than a flask/django backend as they are based on it giving a advantage of speed of communication. &lt;br/&gt;
 both the scripts have debug mode which allows one to see in which state or stage they are in. &lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;output&#34;&gt;Output&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://github.com/hex-plex/Pong-ReinforcementLearning/raw/master/trained.gif&#34; alt=&#34;pong-agent&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/Hemanth-Patel/Pong-ReinforcementLearning/raw/master/trained.gif&#34; alt=&#34;pong-agent&#34;&gt;&lt;/p&gt;
 &lt;hr/&gt;
 The one on the left is a RL agent trained for 3 days and the one on right is a hardcoded AI. This is noticible the they nearly have the same level of skills.
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
@@ -1332,7 +1332,7 @@ _thread # for python 3 and thread in python2
 &lt;br/&gt;
 with the use of socket one could manually control the environment with keyboard and also have a RL agent learning (half - Duplex).&lt;/p&gt;
 &lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
-&lt;p&gt;To launch the env with mostly default values just running &lt;a href=&#34;https://github.com/hex-plex/Pong-ReinforcementLearning/blob/master/pong.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pong.py&lt;/a&gt; directly would start the server with default configs.
+&lt;p&gt;To launch the env with mostly default values just running &lt;a href=&#34;https://github.com/Hemanth-Patel/Pong-ReinforcementLearning/blob/master/pong.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pong.py&lt;/a&gt; directly would start the server with default configs.
 Its always recommended to use its instance, apply your configuration you want it to run and start the server.&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from pong import Pong
 
@@ -1348,7 +1348,7 @@ env = Pong( levelodiff=1, ## This is the level of the inbuilt AI that plays agai
 
 env.start()## This starts the env ie., hosts itself as per the given parameter and waits for a connection in async while continuing the game
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;To launch the RL agent running the &lt;a href=&#34;https://github.com/hex-plex/Pong-ReinforcementLearning/blob/master/mainmodel.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mainmodel.py&lt;/a&gt; directly will run it in default config. &lt;br/&gt;
+&lt;p&gt;To launch the RL agent running the &lt;a href=&#34;https://github.com/Hemanth-Patel/Pong-ReinforcementLearning/blob/master/mainmodel.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mainmodel.py&lt;/a&gt; directly will run it in default config. &lt;br/&gt;
 To customize to your config import and create an instance and run the client. &lt;br/&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from mainmodel import PolicyGradient
 
@@ -1386,20 +1386,20 @@ mv save.p ../save.p
     
     <item>
       <title>Light Gun</title>
-      <link>https://hex-plex.github.io/project/light-gun/</link>
+      <link>https://Hemanth-Patel.github.io/project/light-gun/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/project/light-gun/</guid>
+      <guid>https://Hemanth-Patel.github.io/project/light-gun/</guid>
       <description>&lt;p&gt;Bored in the quarantine period, revisiting my old video games with light gun inspired an idea of light gun with a LCD display , I went on to build it mainly as a android package as it would be more accessable to anyone. Then ended up using a Raspberry Pi as a standalone device to enable it&amp;rsquo;s use accross many platforms and devices.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Explanation for the working can be found in &lt;a href=&#34;https://github.com/hex-plex/Light-Gun/blob/master/EXPLANATION.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EXPLANATION.md&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Explanation for the working can be found in &lt;a href=&#34;https://github.com/Hemanth-Patel/Light-Gun/blob/master/EXPLANATION.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EXPLANATION.md&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;glimpse&#34;&gt;Glimpse:&lt;/h2&gt;
 &lt;p&gt;This is the glimpse of the prototype made with Raspberry pi on a toy gun with all the number-munching done on the Raspberry and transmites messages to the local server through bluetooth. The previous method of running the proccessing and the actions is documented in &lt;strong&gt;Win-Py&lt;/strong&gt; directory.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/Light-Gun/master/images/Complete_setup.jpg&#34; width=&#34;370&#34; align=&#34;right&#34; border=&#34;20&#34;&gt;&lt;/img&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/Light-Gun/master/images/Complete_setup.jpg&#34; width=&#34;370&#34; align=&#34;right&#34; border=&#34;20&#34;&gt;&lt;/img&gt;
 &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;p align=&#34;left&#34;&gt;This is a prototype of the light gun with a camera module attached onto a toy-gun and with a Raspberry pi 3 b+ (unneccessary I know) and a 7.4 V li-ion battery, regulated with a buck converter to which two switches are connected on the Raspi&#39;s interrupt pins.&lt;/p&gt;&lt;hr/&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/hex-plex/Light-Gun/master/images/display_setup.jpg&#34; width=&#34;370&#34; align=&#34;left&#34;&gt;&lt;/img&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/Hemanth-Patel/Light-Gun/master/images/display_setup.jpg&#34; width=&#34;370&#34; align=&#34;left&#34;&gt;&lt;/img&gt;
 &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
 This is the display setup with 4 IR-LEDs attached to the corners of the display which makes it very easy for detection in a wide range of lighting conditions.&lt;hr/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
-&lt;p&gt;And after Installation the main code using &lt;a href=&#34;https://github.com/hex-plex/Light-Gun/tree/master/Raspi-c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Raspi&lt;/a&gt; version or &lt;a href=&#34;https://github.com/hex-plex/Light-Gun/tree/master/Win-py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Local&lt;/a&gt; version, continue using it according to the guide lines for the same which is present in their respective folders itself.&lt;/p&gt;
+&lt;p&gt;And after Installation the main code using &lt;a href=&#34;https://github.com/Hemanth-Patel/Light-Gun/tree/master/Raspi-c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Raspi&lt;/a&gt; version or &lt;a href=&#34;https://github.com/Hemanth-Patel/Light-Gun/tree/master/Win-py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Local&lt;/a&gt; version, continue using it according to the guide lines for the same which is present in their respective folders itself.&lt;/p&gt;
 &lt;p&gt;The Modules then should create a virtual mouse and start following the edge vector of the camera module.
 The following is a demonstration of it in action&amp;hellip;. (😅 coming up shortly, as I am fixing few deviation errors.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1hIYBv8l2JCylOfQS9Cc5D5Hp50Ui55D-/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Demo Link&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1420,9 +1420,9 @@ The following is a demonstration of it in action&amp;hellip;. (😅 coming up sh
     
     <item>
       <title>Slides</title>
-      <link>https://hex-plex.github.io/slides/example/</link>
+      <link>https://Hemanth-Patel.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://hex-plex.github.io/slides/example/</guid>
+      <guid>https://Hemanth-Patel.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
