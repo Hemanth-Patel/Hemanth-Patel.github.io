@@ -99,11 +99,11 @@
   </section>
 
   <!-- Skills -->
-  <section class="skills">
-    <h2>Skills</h2>
-    <p><strong>Tech Stack:</strong> Python, ROS1&2, PyTorch, Matplotlib, OpenAI Gym, PyBullet, SQL, Pandas, Numpy, Docker, Linux</p>
-    <p><strong>Interests:</strong> Data Science, Reinforcement Learning, NLP, LLMs, Robotics, Computer Vision</p>
-  </section>
+  <p><strong>Tech Stack:</strong></p>
+    <div class="skill-tags">
+    <span>Python</span><span>ROS1&2</span><span>PyTorch</span><span>OpenAI Gym</span>
+    <span>PyBullet</span><span>Docker</span><span>SQL</span><span>Matplotlib</span><span>Pandas</span><span>Linux</span>
+    </div>
 
   <!-- Contact -->
   <section class="contact">
@@ -120,6 +120,18 @@
     toggleButton.onclick = () => {
       document.body.classList.toggle('dark');
       toggleButton.innerText = document.body.classList.contains('dark') ? "☀️ Light Mode" : "🌙 Dark Mode";
+    };
+    document.querySelector('.socials').appendChild(toggleButton);
+  </script>
+
+  <script>
+    const toggleButton = document.createElement('button');
+    toggleButton.className = "toggle-theme";
+    toggleButton.innerHTML = "🌙";
+    toggleButton.title = "Toggle dark mode";
+    toggleButton.onclick = () => {
+        document.body.classList.toggle('dark');
+        toggleButton.innerHTML = document.body.classList.contains('dark') ? "☀️" : "🌙";
     };
     document.querySelector('.socials').appendChild(toggleButton);
   </script>
