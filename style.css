@@ -214,15 +214,31 @@ section p, .project, .timeline-item, .about p {
   margin: auto;
   padding: 3rem 1.5rem;
   animation: fadeIn 1s ease-in-out;
+  text-align: left;
 }
 
 .skills .section-heading {
-  font-size: 1.2rem;
-  font-weight: 600;
+  font-size: 1.8rem;
+  font-weight: 700;
   margin-bottom: 1rem;
   color: var(--text);
   border-bottom: 2px solid var(--accent);
   display: inline-block;
+}
+
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.skill-tags span {
+  background: var(--accent);
+  color: #fff;
+  padding: 0.4rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
 }
 
 .about-container {
