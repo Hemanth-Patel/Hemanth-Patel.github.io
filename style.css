@@ -209,32 +209,20 @@ section p, .project, .timeline-item, .about p {
 }
 
 /* Enhanced Skills Section */
-.skills p {
-  background: var(--card);
-  border-radius: 10px;
-  padding: 1rem;
-  margin: 0.5rem 0;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+.skills {
+  max-width: 960px;
+  margin: auto;
+  padding: 3rem 1.5rem;
+  animation: fadeIn 1s ease-in-out;
 }
 
-.skills strong {
-  display: block;
-  margin-bottom: 0.5rem;
-}
-
-.skill-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-top: 0.5rem;
-}
-
-.skill-tags span {
-  background: var(--accent);
-  color: #fff;
-  padding: 0.4rem 0.75rem;
-  border-radius: 20px;
-  font-size: 0.85rem;
+.skills .section-heading {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--text);
+  border-bottom: 2px solid var(--accent);
+  display: inline-block;
 }
 
 .about-container {
