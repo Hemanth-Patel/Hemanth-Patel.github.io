@@ -227,8 +227,8 @@ section p, .project, .timeline-item, .about p {
 }
 
 .skill-tags {
-  display: flex;
-  flex-wrap: wrap;
+  display: flex !important;
+  flex-wrap: wrap !important;
   gap: 0.5rem;
   margin-top: 0.5rem;
 }
@@ -239,6 +239,7 @@ section p, .project, .timeline-item, .about p {
   padding: 0.4rem 0.75rem;
   border-radius: 20px;
   font-size: 0.85rem;
+  white-space: nowrap;
 }
 
 .about-container {
